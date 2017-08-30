@@ -11,7 +11,9 @@
     "graphql": "^0.11.1",
     "graphql-tag": "^2.4.2",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.3"
+    "react-native": "0.44.3",
+    "react-native-scrollable-tab-view": "^0.6.7",
+    "react-native-spinkit": "^1.1.1"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
